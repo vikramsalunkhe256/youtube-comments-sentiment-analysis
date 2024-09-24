@@ -31,6 +31,14 @@ The word cloud portrays the **highly pressurized**, **exam-focused nature** of t
 
 These insights show a collective dissatisfaction with the rigid structure of the Indian education system and a **growing desire for a more balanced, student-friendly approach**.
 
+## Acknowledgments
+
+I would like to extend my sincere thanks to **Tharun Speaks**, the YouTube channel that created and uploaded the video used for this analysis. The content provided valuable insights into the discussion on education in India.
+
+Additionally, special thanks to all the individuals who shared their opinions in the comment section of this video. Your voices were integral to this sentiment analysis.
+
+I would also like to express my gratitude to the developers of the sentiment analysis models available on Hugging Face. Your work made it possible to analyze and understand the sentiments expressed in the comments effectively.
+
 ## Author
 
 Developed by Vikram Salunkhe.
