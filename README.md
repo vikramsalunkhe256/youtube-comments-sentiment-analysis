@@ -14,14 +14,14 @@
 
 ## Insights and Recommendations
 
-- **Mental health crises fueled by academic pressure.**
-- **An exam-focused, competitive culture that neglects holistic development.**
-- **A commercialized education system where coaching plays a central role.**
-- **A call for systemic change to reduce pressure and focus on skills and life preparation.**
+- **Mental health crises** fueled by **academic pressure**.
+- An **exam-focused**, **competitive culture** that neglects holistic development.
+- A **commercialized education system** where coaching plays a central role.
+- A call for **systemic change** to reduce pressure and focus on skills and life preparation.
 
-The word cloud portrays the highly pressurized, exam-focused nature of the Indian education system, where parental pressure, mental health struggles, and high-stakes competitive exams dominate conversations.
+The word cloud portrays the **highly pressurized**, **exam-focused nature** of the Indian education system, where **parental pressure**, **mental health struggles**, and **high-stakes competitive exams** dominate conversations.
 
-These insights show a collective dissatisfaction with the rigid structure of the Indian education system and a growing desire for a more balanced, student-friendly approach.
+These insights show a collective dissatisfaction with the rigid structure of the Indian education system and a **growing desire for a more balanced, student-friendly approach**.
 
 ## Author
 
