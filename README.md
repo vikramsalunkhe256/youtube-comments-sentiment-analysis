@@ -1,5 +1,13 @@
 # Sentiment Analysis of YouTube Video Comments on the Indian Education System
 
+## Selected YouTube Video
+
+For this analysis, comments were extracted from the following YouTube video:
+
+[The Dark Reality of Indian Education System.](https://www.youtube.com/watch?v=rhDlnysOfe8)
+
+This video was suggested by **Perplexity** for its relevance to the topic of education in India, making it suitable for sentiment analysis.
+
 ## Project Workflow
 
 ![Project Workflow](https://github.com/vikramsalunkhe256/youtube-comments-sentiment-analysis/blob/main/images/workflow_architecture.png)
